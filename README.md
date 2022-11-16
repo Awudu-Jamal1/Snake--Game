@@ -1,3 +1,6 @@
 # Snake -Game
  
- The game is like the game we use to play in our phones in our 90s.But this game is built to on any browser.
+ The game is like the game we use to play on our phones in the 90s.But this game is built to run on any browser.
+ 
+ #Play Game Online
+ 
